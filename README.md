@@ -45,12 +45,10 @@
 
 ---
 
-<div align="center">
+## 📫 **Contacto**
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:benchibafatin@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/fatin-ben-chiba-74211335a)
 
-### 📬 **Contacto**
-[![Email](https://img.shields.io/badge/Email_tucorreo@gmail.com-D14836?style=flat-square&logo=gmail)](mailto:tucorreo@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn_TuPerfil-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/tuperfil)  
-[![Portfolio](https://img.shields.io/badge/Portfolio_TuWeb-FF7139?style=flat-square&logo=firefox)](https://tuportfolio.com)
-
-</div>
 ---
+
+⭐ *"La tecnología es el arte de convertir ideas en soluciones"*
