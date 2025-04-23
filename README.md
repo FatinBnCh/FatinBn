@@ -1,15 +1,33 @@
-# Fetin
-<div align="center">
-
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=¡Hola%20Soy%20[Tu%20Nombre]!&fontSize=30&fontAlignY=30)
-
-</div>
-
----
+<!-- Banner de cabecera -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=¡Hola+soy+Fatin!&fontSize=40&fontColor=fff&animation=fadeIn" alt="banner" style="width: 100%;" />
+</p>
 
 ### 👩‍💻 **Perfil**
 **Desarrolladora Front-end | Diseñadora UI | Estudiante ASIR**  
 *Combino código limpio con diseños intuitivos. Especializada en crear experiencias digitales que funcionan tan bien como se ven.*
+
+---
+
+### 🧠 **Acerca de mí**
+Soy una apasionada del diseño web y la tecnología. Aunque soñaba con ser arquitecta, descubrí que crear experiencias digitales estéticas y funcionales es mi verdadera vocación.  
+Actualmente, estudio **Administración de Sistemas Informáticos en Red (ASIR)** y dedico mi tiempo libre a dominar **HTML**, **CSS** y **JavaScript**, mientras perfecciono mi técnica en el diseño.
+
+Domino **3 idiomas** (español, árabe, francés) y estoy aprendiendo **italiano** e **inglés**.  
+Mi objetivo es combinar mis habilidades técnicas con mi creatividad para construir webs que no solo funcionen bien, sino que también enamoren visualmente.
+
+💻 *Programadora front-end en formación, diseñadora UI de corazón, apasionada por los detalles pixel-perfect.*
+
+---
+
+### 🌍 **Idiomas**
+
+| Idioma   | Nivel                        |
+|----------|-----------------------------|
+| Español  | Competencia nativa          |
+| Francés  | Competencia nativa          |
+| Árabe    | Competencia nativa          |
+| Inglés   | Competencia básica limitada |
 
 ---
 
@@ -27,28 +45,26 @@
 
 ---
 
-### 🌐 **Idiomas**
-- **🇪🇸 Español**: Nativo  
-- **🇫🇷 Francés**: Nativo  
-- **🇦🇪 Árabe**: Nativo  
-- **🇬🇧 Inglés**: Básico (en aprendizaje)  
-- **🇮🇹 Italiano**: En progreso  
+### 💡 **Conocimientos y Aptitudes**
+
+- 🎨 Diseño web
+- ✨ Estética visual
+- 🔍 Atención al detalle
+- 🧠 Aprendizaje profundo
+- 🎭 Creatividad
+- 💬 Multilingüe (Español, Francés, Árabe, Inglés básico)
+- 👩‍💻 HTML5, CSS3, JavaScript
 
 ---
 
-### 📈 **En Aprendizaje**
-```diff
-+ React.js
-+ Diseño Responsive Avanzado
-+ Seguridad Informática (Kali Linux)
-+ Automatización con Bash
+### 📬 **Contacto**
+
+- 📧 **Email**: [benchibafatin@gmail.com](mailto:benchibafatin@gmail.com)  
+- 💼 **LinkedIn**: [Fatin Ben Chiba](https://www.linkedin.com/in/fatin-ben-chiba-74211335a)
 
 ---
 
-## 📫 **Contacto**
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:benchibafatin@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/fatin-ben-chiba-74211335a)
-
----
-
-⭐ *"La tecnología es el arte de convertir ideas en soluciones"*
+<!-- Banner de pie de página -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer" alt="footer banner" style="width: 100%;" />
+</p>
